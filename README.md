@@ -3,6 +3,7 @@
 In this case study, I will perform many real-world tasks of a junior data analyst at a fictional company, Atlas Interactive. In order to answer the key business questions, I will follow the steps of the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act.
 ### Quick links:
 Data Source: [kaggle_dataset](https://www.kaggle.com/datasets/rabieelkharoua/predict-online-gaming-behavior-dataset) [accessed on 11/11/25]
+
 Data Visualizations: [Tableau](https://public.tableau.com/app/profile/jerry.soh/viz/game-playertype-casestudy/AveragePlayTimeHoursByPlayerType)
 ## Background
 ### Atlas Interactive
