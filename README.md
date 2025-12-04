@@ -48,24 +48,19 @@ Before cleaning the data, I familarise myself with the data to understand its me
 Observations and actions:
 1. The table below shows all column headers: 
 
-PlayerID
-Age
-Gender
-Location
-GameGenre
-PlayTime
-Hours
-InGame
-Purchases
-GameDifficulty
-SessionsPerWeek
-AvgSession
-DurationMinutes
-PlayerLevel
-Achievements
-Unlocked
-Engagement
-Level
+PlayerID,
+Age,
+Gender,
+Location,
+GameGenre,
+PlayTimeHours,
+InGamePurchases,
+GameDifficulty,
+SessionsPerWeek,
+AvgSessionDurationMinutes,
+PlayerLevel,
+AchievementsUnlocked,
+EngagementLevel
 
 2. Data preparation streamlined the dataset by removing non-essential fields. Since the core business objective is to identify factors influencing the conversion of Casual to Hardcore Players, the demographics data [ie. Age (Column B), Gender (Column C), and Location data (Columns D)] are excluded from the final dataset. This allows the concentration of  analytical effort exclusively on the behavioral metrics that directly measure player engagement and commitment.
 
