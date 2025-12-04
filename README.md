@@ -295,9 +295,9 @@ Analysis of player behavior confirms that the path to profitability is very spec
 
 2. The Dual Opportunity: The target pool requires a dual strategy:
 
-   2A. Financial Target: Only 20 Players (0.51%) of the Medium segment are immediately ready for financial conversion offers (as they met both thresholds).
+   A. Financial Target: Only 20 Players (0.51%) of the Medium segment are immediately ready for financial conversion offers (as they met both thresholds).
 
-   2B. Retention Target: A large cohort of 734 players is already seeking Hard difficulty content, making them ready for challenge-based retention programs.
+   B. Retention Target: A large cohort of 734 players is already seeking Hard difficulty content, making them ready for challenge-based retention programs.
   
 3. The Conversion Gateway: The highest-risk progression point is the Level 51 → 52 transition, which must be reinforced to prevent player stagnation.
 
