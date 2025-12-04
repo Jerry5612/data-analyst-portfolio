@@ -2,8 +2,8 @@
 ## Introduction
 In this case study, I will perform many real-world tasks of a junior data analyst at a fictional company, Atlas Interactive. In order to answer the key business questions, I will follow the steps of the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act.
 ### Quick links:
-Data Source: [kaggle_dataset] (https://www.kaggle.com/datasets/rabieelkharoua/predict-online-gaming-behavior-dataset) [accessed on 11/11/25]
-Data Visualizations: [Tableau] (https://public.tableau.com/app/profile/jerry.soh/viz/game-playertype-casestudy/AveragePlayTimeHoursByPlayerType)
+Data Source: [kaggle_dataset](https://www.kaggle.com/datasets/rabieelkharoua/predict-online-gaming-behavior-dataset) [accessed on 11/11/25]
+Data Visualizations: [Tableau](https://public.tableau.com/app/profile/jerry.soh/viz/game-playertype-casestudy/AveragePlayTimeHoursByPlayerType)
 ## Background
 ### Atlas Interactive
 Atlas Interactive is the publisher of Shadow City Saga, an immensely popular Open-World Action-Adventure game. The game boasts a massive player base and generates revenue through microtransactions and Downloadable Contents (DLCs). Atlas Interactive sets itself apart from other publishers by continuously releasing free content updates, new maps for exploration, and inclusive multiplayer modes, making the game appealing to a variety of gamers. The vast majority of players are Casual while a much smaller, highly engaged segment comprises the Hardcore Players.
